@@ -1,0 +1,17 @@
+{
+  "name": "material-design-icons-dist",
+  "homepage": "https://github.com/pizzapanther/Material-Design-Icon-Font",
+  "authors": [
+    "Paul Bailey <paul.m.bailey@gmail.com>"
+  ],
+  "description": "Material Design icon font packaged for deployment without development files.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "material",
+    "design",
+    "icon",
+    "font"
+  ],
+  "license": "MIT"
+}
