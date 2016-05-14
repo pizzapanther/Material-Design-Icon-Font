@@ -1,9 +1,9 @@
-The recommended way to use the Material Icons font is by linking to the web font hosted on Google Fonts:
+# Material Design Icon Font packaged for deployment
 
-```html
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet">
-```
+This is just the Material Design Icon Font packaged for deployment.  The original package contains all the development files which take up a lot of space.
 
-Read more in our full usage guide:
-http://google.github.io/material-design-icons/#icon-font-for-the-web
+This is ideal for Chrome Apps, Progressive Web Apps, or Native and hybrid iOS and Android apps that need offline access to the font.
+
+The original package is here: https://github.com/google/material-design-icons
+
+I'll try to keep it in sync but ping me if it needs to be updated.
