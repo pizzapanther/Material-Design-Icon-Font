@@ -1,0 +1,27 @@
+{
+  "name": "md-icons",
+  "version": "1.0.0",
+  "description": "Material Design Icon Font packaged for deployment",
+  "main": "material-icons.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pizzapanther/Material-Design-Icon-Font.git"
+  },
+  "keywords": [
+    "iconfont",
+    "icons",
+    "icon",
+    "font",
+    "material",
+    "design"
+  ],
+  "author": "Paul Bailey",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/pizzapanther/Material-Design-Icon-Font/issues"
+  },
+  "homepage": "https://github.com/pizzapanther/Material-Design-Icon-Font#readme"
+}
